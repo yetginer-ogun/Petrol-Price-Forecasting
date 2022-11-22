@@ -1,1 +1,1 @@
-# Petrol-Price-Forecasting
+ARIMA ile yapılan tahminler tatmin etmedi farklı kütüphanelerle denenmeli.
